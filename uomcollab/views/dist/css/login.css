@@ -1,0 +1,144 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic);
+body{
+	background-color: #ECF0F5;
+	color:white;
+	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Source Sans Pro', sans-serif
+}
+.btn-flat{
+	border-radius: 1px;
+	
+
+}
+
+.form-control{
+	border-radius: 0;
+}
+.main-header{
+	text-align: center;
+	background-color:#3c8dbc;
+	min-height: 50px;
+	padding-top: 20px;
+	padding-bottom:20px;
+}
+.logo{
+	color:White;
+	vertical-align: left;
+	font-size: 30px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	left:79%;
+	
+}
+.login-section{
+	min-height:500px;
+	background-color: #3c8dbc;
+	padding-top:100px;
+}
+.box{
+	color:black;
+	background: white;
+	min-height:200px;
+	border-top: 5px solid #666;
+}
+.box-heading{
+	padding:10px;
+	color: #444;
+	display: block;
+	text-align: center;
+	background: #ECF0F5;
+}
+.box-heading-login{
+	
+    width: 15%;
+    left: 43%;
+    top: -19px !important;
+    bottom: 0%;
+    border: 3px solid #666;
+    position: relative;
+
+}
+.box-heading h3{
+	font-size: 18px;
+	margin:0;
+	line-height: 1;
+}
+.box-body{
+	margin-top:20px;
+}
+.box-body label{
+	font-weight: 500;
+}
+.box-body .row{
+	margin:10px;
+}
+.register-section{
+	margin:50px;
+}
+.box-register{
+	border: 1px solid rgba(0,0,0,0.1);
+	background: none;
+}
+.box-heading-blue{
+	background-color: #3c8dbc;
+}
+.box-heading-register{
+
+    width: 15%;
+    left: 43%;
+    top: -19px !important;
+    bottom: 0%;
+    border: 1px solid rgba(0,0,0,0.1);
+    position: relative;
+
+}
+.colorgraph {
+  height: 7px;
+  border-top: 0;
+  background: #c4e17f;
+  border-radius: 5px;
+  background-image: -webkit-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: -moz-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: -o-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: linear-gradient(to right, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+}
+
+h3 {
+	font-family: Aclonica;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+
+blockquote {
+	font-family: Aclonica;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: Aclonica;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
+}
+a{
+	color:white;
+}
+
+ /* This text is in Aclonica */
+.class { 
+	font-family: Aclonica; 
+}
+footer{
+	background-color:#3c8dbc;
+}
+ 
